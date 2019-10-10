@@ -12,12 +12,12 @@
   },
   "keywords": [
     "landing page",
-    "page", 
+    "page",
     "ecommerce",
     "bakul"
   ],
   "author": "Farid <zeonji@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/KodeSoft/landing-page/issues"
   },
